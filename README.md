@@ -15,7 +15,7 @@ In the future we plan to further enhance its utility and impact, the portal aims
 The enhanced agricultural portal will serve as a one-stop solution for stakeholders across the agricultural spectrum. Farmers will make well-informed decisions on crop selection, resource allocation, and pest management. Researchers and advisors will access valuable insights for studies and recommendations. Agricultural businesses will optimize supply chains and respond to market trends. Policy makers will have access to data for informed regulatory decisions. Consumers will benefit from transparent information about food sources. Ultimately, the portal's impact will extend to enhancing agricultural productivity, sustainability, and resilience in the face of changing conditions.
 
 ## Tech Stack
-* Frontend - HTML,CSS,Javascript
+* Frontend - HTML,CSS,Bootstrap,Javascript
 * Backend - Flask Framework (Python)
 * ML - Python
 
