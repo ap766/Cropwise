@@ -1,0 +1,187 @@
+{
+    "rice": {
+        "description": "Rice is a staple food crop",
+        "temperature_range": "20°C - 35°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "High (requires flooding)",
+        "harvest_season": "Summer",
+        "fertilizers":
+        "Ammonium Nitrate (nitrogen-based),Single Super Phosphate (phosphorus-based)"
+
+    },
+    "maize": {
+        "description": "Maize is a cereal grain",
+        "temperature_range": "18°C - 30°C",
+        "soil_type": "Well-drained soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":"Ammonium Nitrate (nitrogen-based), Muriate of Potash (potassium-based)"
+    },
+    "chickpea": {
+        "description": "Chickpea is a legume",
+        "temperature_range": "15°C - 25°C",
+        "soil_type": "Well-drained loam",
+        "water_requirements": "Low to moderate",
+        "harvest_season": "Spring",
+        "fertilizers":"Diammonium Phosphate (phosphorus-based), Sulphate of Potash (potassium-based)"
+    },
+    "kidneybeans": {
+        "description": "Kidney peas are a type of legume",
+        "temperature_range": "20°C - 30°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Summer",
+        "fertilizers":"Ammonium Sulfate (nitrogen-based), Triple Super Phosphate (phosphorus-based)"
+    },
+    "mothbeans": {
+        "description": "Moth beans are a drought-resistant pulse crop",
+        "temperature_range": "25°C - 35°C",
+        "soil_type": "Well-drained soil",
+        "water_requirements": "Low to moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":"Calcium Ammonium Nitrate (nitrogen-based), Superphosphate (phosphorus-based)"
+    },
+    "mungbean": {
+        "description": "Mung bean is a green legume",
+        "temperature_range": "25°C - 35°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Summer",
+        "fertilizers":"Ammonium Phosphate (nitrogen-based), Monoammonium Phosphate (phosphorus-based)"
+    },
+    
+    "blackgram": {
+        "description": "Black gram is a type of pulse",
+        "temperature_range": "25°C - 35°C",
+        "soil_type": "Well-drained soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":"Examples: Urea (nitrogen-based), Di-Ammonium Phosphate (phosphorus-based)"
+    },
+    "lentil": {
+        "description": "Lentil is a nutritious legume",
+        "temperature_range": "15°C - 25°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Low to moderate",
+        "harvest_season": "Spring",
+        "fertilizers":"Examples: Ammonium Nitrate (nitrogen-based), Triple Super Phosphate (phosphorus-based)"
+    },
+    "pomegranate": {
+        "description": "Pomegranate is a fruit-bearing shrub",
+        "temperature_range": "10°C - 35°C",
+        "soil_type": "Well-drained soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":"Ammonium Nitrate (nitrogen-based), Potassium Nitrate (potassium-based)"
+    },
+    "banana": {
+        "description": "Banana is a tropical fruit",
+        "temperature_range": "25°C - 30°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "High",
+        "harvest_season": "Year-round",
+        "fertilizers":"Urea (nitrogen-based), Muriate of Potash (potassium-based)"
+    },
+   
+    "mango": {
+        "description": "Mango is a tropical fruit tree",
+        "temperature_range": "25°C - 35°C",
+        "soil_type": "Well-drained soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Summer",
+        "fertilizers":" Calcium Ammonium Nitrate (nitrogen-based), Muriate of Potash (potassium-based)"
+    },
+    "grapes": {
+        "description": "Grapes are fruit-bearing vines",
+        "temperature_range": "15°C - 35°C",
+        "soil_type": "Well-drained loam",
+        "water_requirements": "Moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":" Urea (nitrogen-based), Potassium Sulfate (potassium-based)"
+    },
+    "watermelon": {
+        "description": "Watermelon is a juicy fruit",
+        "temperature_range": "25°C - 35°C",
+        "soil_type": "Sandy loam",
+        "water_requirements": "High",
+        "harvest_season": "Summer",
+        "fertilizers":" Ammonium Nitrate (nitrogen-based), Muriate of Potash (potassium-based)"
+    },
+    "muskmelon": {
+        "description": "Muskmelon is a sweet and fragrant fruit",
+        "temperature_range": "20°C - 30°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Summer",
+        "fertilizers":" Urea (nitrogen-based), Potassium Nitrate (potassium-based)"
+    },
+    "apple": {
+        "description": "Apple is a popular fruit tree",
+        "temperature_range": "10°C - 25°C",
+        "soil_type": "Well-drained soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":"  Ammonium Nitrate (nitrogen-based), Superphosphate (phosphorus-based)"
+    },
+    "orange": {
+        "description": "Orange is a citrus fruit",
+        "temperature_range": "15°C - 30°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Winter",
+        "fertilizers":"  Ammonium Nitrate (nitrogen-based), Triple Super Phosphate (phosphorus-based)"
+    },
+    "papaya": {
+        "description": "Papaya is a tropical fruit",
+        "temperature_range": "20°C - 35°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Year-round",
+        "fertilizers":"  Urea (nitrogen-based), Potassium Nitrate (potassium-based)"
+    },
+    "coconut": {
+        "description": "Coconut is a versatile tropical fruit",
+        "temperature_range": "25°C - 35°C",
+        "soil_type": "Sandy soil",
+        "water_requirements": "High",
+        "harvest_season": "Year-round",
+        "fertilizers":"  Ammonium Sulfate (nitrogen-based), Muriate of Potash (potassium-based)"
+    },
+    "cotton": {
+        "description": "Cotton is a major fiber crop",
+        "temperature_range": "20°C - 30°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":"  Ammonium Nitrate (nitrogen-based), Single Super Phosphate (phosphorus-based)"
+    },
+    "jute": {
+        "description": "Jute is a natural fiber crop",
+        "temperature_range": "25°C - 35°C",
+        "soil_type": "Alluvial soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Summer","fertilizers":"  Urea (nitrogen-based), Triple Super Phosphate (phosphorus-based)"
+    },
+    "coffee": {
+        "description": "Coffee is a popular beverage crop",
+        "temperature_range": "15°C - 28°C",
+        "soil_type": "Well-drained soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Winter",
+        "fertilizers":"  Ammonium Nitrate (nitrogen-based), Superphosphate (phosphorus-based)"
+    },
+    "pigeonpeas":{ 
+        "description": "Pigeon peas are a type of legume",
+        "temperature_range": "20°C - 30°C",
+        "soil_type": "Loamy soil",
+        "water_requirements": "Moderate",
+        "harvest_season": "Autumn",
+        "fertilizers":"  Ammonium Nitrate (nitrogen-based), Triple Super Phosphate (phosphorus-based)"
+    }
+        
+}
+
+
+
+   
+
