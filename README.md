@@ -24,4 +24,26 @@ We used Logistic Regression , Decision Trees and Random Forest to train our mode
 We got a maximum accuracy of 99.3 percent using Random Forest
 However,in the future we would use more metrics to determine the best fitting algorithm for this purpose and all train our model using other algorithms like KNN, XGBoost ,etc
 
+## OUTPUT
+
+### 1. Home Page
+![f2](https://github.com/ap766/Cropwise/assets/79255079/3c5b76a8-6b84-4ff4-b78b-e13ca56f90c5)
+### 2. About Page
+![about](https://github.com/ap766/Cropwise/assets/79255079/25c94a27-1d66-4cb4-beac-167984797786)
+### 3. Crop Predictor - Input Values of N,P,K,Rainfall,Temperature,PH of Soil,Humidity And a pop up Appears with Predicted Crop and details about it.
+![q2](https://github.com/ap766/Cropwise/assets/79255079/9c683ff0-1522-4bba-a687-148ea3e37445)
+
+![croppred](https://github.com/ap766/Cropwise/assets/79255079/4c35e2af-17e7-49b7-b386-b1e6cf9da81b)
+### 4.Graph Predictor - Select N/P/K/Rainfall/Temperature/PH/Humidity and a graph is created showing the relationship using Seaborn Library.
+![graph1](https://github.com/ap766/Cropwise/assets/79255079/b56da592-b4e7-4e70-8a90-c665aa6089f1)
+
+![graph](https://github.com/ap766/Cropwise/assets/79255079/d0720bd3-07cb-4698-8319-0b02ab837fb1)
+### 5.Customer Support Chatbot - Has been created using a nocode tool for the time being , we will guide users on how to use our website
+![q1](https://github.com/ap766/Cropwise/assets/79255079/077f8c21-3873-4fe4-8dd7-513c61ecf282)
+
+## RUN THE PROGRAM
+run`model.py` to train our model.
+run `app.py` to run our flask application.
+It will be up and running!
+
 
