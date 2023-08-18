@@ -42,8 +42,8 @@ However,in the future we would use more metrics to determine the best fitting al
 ![q1](https://github.com/ap766/Cropwise/assets/79255079/077f8c21-3873-4fe4-8dd7-513c61ecf282)
 
 ## RUN THE PROGRAM
-run`model.py` to train our model.
-run `app.py` to run our flask application.
+run `python model.py ` to train our model.
+run `python app.py ` to run our flask application.
 It will be up and running!
 
 
